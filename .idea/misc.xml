@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1046875" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/drawable/circle.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/drawable/shap_oval.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/layout/content_fragment.xml" value="0.16894630192502533" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/layout/item_checked_text.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/layout/item_news.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/layout/item_video.xml" value="0.14629629629629629" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/layout/main_activity.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/layout/main_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/menu/drawer.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/HSC/Downloads/NewsFeed-master/NewsFeed-master/app/src/main/res/menu/main.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.203125" />
+        <entry key="app/src/main/res/layout/content_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_multi_checked_text.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/item_news.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.2581648522550544" />
+        <entry key="app/src/main/res/layout/main_fragment.xml" value="0.2737169517884914" />
+        <entry key="app/src/main/res/menu/content.xml" value="0.1890625" />
+        <entry key="app/src/main/res/menu/drawer.xml" value="0.1890625" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.335" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
